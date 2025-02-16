@@ -9,7 +9,7 @@ A simple **Tic-Tac-Toe** game implemented in **Java** featuring an AI opponent. 
 - Clean, easy-to-use interface with a simple layout.
 
 ## Tech Stack:
-- **Programming Language**: Java
+- **Programming Language**: [https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white]
 - **GUI Framework**: **Swing** (part of Java's standard library)
 - **AI Algorithm**: **Minimax Algorithm**
 - **Development Environment**: Eclipse IDE (or any Java IDE)
