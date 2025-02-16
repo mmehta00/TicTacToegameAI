@@ -13,5 +13,3 @@ A simple **Tic-Tac-Toe** game implemented in **Java** featuring an AI opponent. 
 - **GUI Framework**: **Swing** (part of Java's standard library)
 - **AI Algorithm**: **Minimax Algorithm**
 - **Development Environment**: Eclipse IDE (or any Java IDE)
-
-- 
